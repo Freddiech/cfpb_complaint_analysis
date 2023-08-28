@@ -26,4 +26,24 @@ Security risks posed by impersonation and phishing scams	57
 System reliability and downtime	33
 
 
+single top words:
+Difficulties in recognizing and resolving people's disputes: [account,pay,report,credit,call,information,say,would,dispute,time,receive,get,make,tell,send,day,request,state,card,number]
+Providing inaccurate, unreliable, or insufficient information: [report,account,consumer,credit,information,pay,debt,call,provide,receive,loan,would,make,date,state,dispute,say,number,agency,time]
+Security risks posed by impersonation and phishing scams: [account,call,email,information,kraken,say,bank,ask,tell,number,would,receive,money,transfer,credit,use,get,send,transaction,address]
+Limited ability to solve complex problems: [account,pay,report,credit,call,consumer,information,loan,would,time,make,receive,bank,day,tell,get,state,debt,send,say]
+Failure to provide meaningful customer assistance: [account,credit,report,pay,call,would,consumer,information,get,time,make,loan,receive,state,file,email,request,tell,say,card]
+System reliability and downtime: [call,account,system,get,try,pay,time,customer,credit,website,day,phone,access,message,use,number,information,report,say,make]
+Hindering access to timely human intervention: [call,account,would,transfer,fraud,time,well,try,ask,fargo,state,telephone,contact,advise,credit,request,bank,get,pay,send]
+Personally identifiable information leakage: [account,report,credit,consumer,information,call,number,inquiry,experian,date,company,pay,receive,identity,give,remove,name,card,equifax,get]
+
+
+double top words:
+Difficulties in recognizing and resolving people's disputes: [credit report,credit card,customer service,consumer report,credit bureau,date inquiry,remove credit,call back,make pay,please remove,account number,contact information,report agency,well fargo,phone number,phone call,american express,report compliance,compliance report,report contact]
+Providing inaccurate, unreliable, or insufficient information: [consumer report,credit report,report agency,debt collector,credit card,identity theft,account number,information consumer,personal information,credit score,code code,customer service,agency shall,social security,credit bureau,section title,fair credit,credit file,consumer credit,third party]
+Security risks posed by impersonation and phishing scams: [kraken com,bank account,personal information,kraken account,receive email,phone number,social security,email address,call back,credit report,western union,www kraken,withdrawal address,well fargo,would like,reply email,credit card,kraken support,wire transfer,security number]
+Limited ability to solve complex problems: [credit report,consumer report,customer service,report agency,unkown unkown,debt collector,credit card,make pay,call back,unknown unknown,account number,discover bank,freedom mortgage,phone number,collection chargeoff,day late,phone call,close account,credit bureau,late fee]
+Failure to provide meaningful customer assistance: [consumer report,credit report,credit card,customer service,call back,report agency,identity theft,debt collector,card pay,phone call,usaa credit,consumer credit,first citizen,information consumer,fraudulent account,settlement class,even though,violation section,let know,fair credit]
+System reliability and downtime: [credit report,customer service,selene finance,system error,access account,every day,phone number,paypal account,get credit,make pay,telephone number,cell phone,able access,social medium,credit card,bill pay,could get,attempt get,get answer,every month]
+Hindering access to timely human intervention: [well fargo,wire transfer,fraud unit,customer service,freedom mortgage,fargo fraud,telephone call,wire fraud,fraud scheme,credit report,experian employee,telephone number,telephone wire,email address,try call,credit card,phone call,several time,answer phone,try contact]
+Personally identifiable information leakage: [credit report,consumer report,credit card,report agency,identity theft,third party,social security,personal information,account number,promotional inquiry,phone number,information consumer,security number,inquiry authorize,call back,fraudulent account,date inquiry,inquiry recollection,recollection authorize,authorize credit]
 
