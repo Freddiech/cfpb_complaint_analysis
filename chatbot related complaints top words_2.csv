@@ -1,0 +1,801 @@
+problem,top_words,count,rank
+Difficulties in recognizing and resolving people's disputes,credit report,853,1
+Difficulties in recognizing and resolving people's disputes,credit card,284,2
+Difficulties in recognizing and resolving people's disputes,customer service,274,3
+Difficulties in recognizing and resolving people's disputes,consumer report,190,4
+Difficulties in recognizing and resolving people's disputes,credit bureau,183,5
+Difficulties in recognizing and resolving people's disputes,date inquiry,176,6
+Difficulties in recognizing and resolving people's disputes,remove credit,171,7
+Difficulties in recognizing and resolving people's disputes,call back,164,8
+Difficulties in recognizing and resolving people's disputes,make pay,159,9
+Difficulties in recognizing and resolving people's disputes,please remove,156,10
+Difficulties in recognizing and resolving people's disputes,account number,151,11
+Difficulties in recognizing and resolving people's disputes,contact information,149,12
+Difficulties in recognizing and resolving people's disputes,report agency,145,13
+Difficulties in recognizing and resolving people's disputes,well fargo,139,14
+Difficulties in recognizing and resolving people's disputes,phone number,137,15
+Difficulties in recognizing and resolving people's disputes,phone call,134,16
+Difficulties in recognizing and resolving people's disputes,american express,133,17
+Difficulties in recognizing and resolving people's disputes,report compliance,132,18
+Difficulties in recognizing and resolving people's disputes,compliance report,132,19
+Difficulties in recognizing and resolving people's disputes,report contact,132,20
+Difficulties in recognizing and resolving people's disputes,unauthorized inquiry,130,21
+Difficulties in recognizing and resolving people's disputes,inquiry please,130,22
+Difficulties in recognizing and resolving people's disputes,inquiry data,128,23
+Difficulties in recognizing and resolving people's disputes,data furnisher,128,24
+Difficulties in recognizing and resolving people's disputes,furnisher violate,128,25
+Difficulties in recognizing and resolving people's disputes,violate metro,128,26
+Difficulties in recognizing and resolving people's disputes,metro report,128,27
+Difficulties in recognizing and resolving people's disputes,fair credit,127,28
+Difficulties in recognizing and resolving people's disputes,information date,127,29
+Difficulties in recognizing and resolving people's disputes,report unauthorized,125,30
+Difficulties in recognizing and resolving people's disputes,credit score,122,31
+Difficulties in recognizing and resolving people's disputes,report act,116,32
+Difficulties in recognizing and resolving people's disputes,bank account,108,33
+Difficulties in recognizing and resolving people's disputes,business day,107,34
+Difficulties in recognizing and resolving people's disputes,late fee,105,35
+Difficulties in recognizing and resolving people's disputes,close account,102,36
+Difficulties in recognizing and resolving people's disputes,even though,100,37
+Difficulties in recognizing and resolving people's disputes,say would,100,38
+Difficulties in recognizing and resolving people's disputes,personal information,98,39
+Difficulties in recognizing and resolving people's disputes,interest rate,97,40
+Difficulties in recognizing and resolving people's disputes,debit card,97,41
+Difficulties in recognizing and resolving people's disputes,late pay,96,42
+Difficulties in recognizing and resolving people's disputes,social security,94,43
+Difficulties in recognizing and resolving people's disputes,identity theft,93,44
+Difficulties in recognizing and resolving people's disputes,bank america,91,45
+Difficulties in recognizing and resolving people's disputes,past due,90,46
+Difficulties in recognizing and resolving people's disputes,check account,85,47
+Difficulties in recognizing and resolving people's disputes,information credit,82,48
+Difficulties in recognizing and resolving people's disputes,would like,76,49
+Difficulties in recognizing and resolving people's disputes,monthly pay,75,50
+Difficulties in recognizing and resolving people's disputes,pay make,75,51
+Difficulties in recognizing and resolving people's disputes,within day,75,52
+Difficulties in recognizing and resolving people's disputes,account close,74,53
+Difficulties in recognizing and resolving people's disputes,pay due,72,54
+Difficulties in recognizing and resolving people's disputes,pay mortgage,71,55
+Difficulties in recognizing and resolving people's disputes,fraud department,69,56
+Difficulties in recognizing and resolving people's disputes,file dispute,69,57
+Difficulties in recognizing and resolving people's disputes,never receive,67,58
+Difficulties in recognizing and resolving people's disputes,report credit,66,59
+Difficulties in recognizing and resolving people's disputes,several time,66,60
+Difficulties in recognizing and resolving people's disputes,receive email,65,61
+Difficulties in recognizing and resolving people's disputes,send email,65,62
+Difficulties in recognizing and resolving people's disputes,dispute online,65,63
+Difficulties in recognizing and resolving people's disputes,let know,64,64
+Difficulties in recognizing and resolving people's disputes,email address,64,65
+Difficulties in recognizing and resolving people's disputes,mortgage pay,63,66
+Difficulties in recognizing and resolving people's disputes,automated system,62,67
+Difficulties in recognizing and resolving people's disputes,covid forbearance,62,68
+Difficulties in recognizing and resolving people's disputes,make sure,61,69
+Difficulties in recognizing and resolving people's disputes,capital one,60,70
+Difficulties in recognizing and resolving people's disputes,multiple time,59,71
+Difficulties in recognizing and resolving people's disputes,pay history,59,72
+Difficulties in recognizing and resolving people's disputes,try get,59,73
+Difficulties in recognizing and resolving people's disputes,third party,58,74
+Difficulties in recognizing and resolving people's disputes,inaccurate information,58,75
+Difficulties in recognizing and resolving people's disputes,send letter,58,76
+Difficulties in recognizing and resolving people's disputes,call customer,58,77
+Difficulties in recognizing and resolving people's disputes,due date,58,78
+Difficulties in recognizing and resolving people's disputes,police report,57,79
+Difficulties in recognizing and resolving people's disputes,receive letter,57,80
+Difficulties in recognizing and resolving people's disputes,report account,56,81
+Difficulties in recognizing and resolving people's disputes,account open,55,82
+Difficulties in recognizing and resolving people's disputes,tell would,55,83
+Difficulties in recognizing and resolving people's disputes,open account,54,84
+Difficulties in recognizing and resolving people's disputes,credit account,54,85
+Difficulties in recognizing and resolving people's disputes,card account,54,86
+Difficulties in recognizing and resolving people's disputes,account credit,52,87
+Difficulties in recognizing and resolving people's disputes,citizen bank,52,88
+Difficulties in recognizing and resolving people's disputes,credit file,51,89
+Difficulties in recognizing and resolving people's disputes,day late,51,90
+Difficulties in recognizing and resolving people's disputes,file complaint,50,91
+Difficulties in recognizing and resolving people's disputes,pay account,50,92
+Difficulties in recognizing and resolving people's disputes,please help,49,93
+Difficulties in recognizing and resolving people's disputes,tell could,49,94
+Difficulties in recognizing and resolving people's disputes,come back,49,95
+Difficulties in recognizing and resolving people's disputes,mortgage loan,49,96
+Difficulties in recognizing and resolving people's disputes,call call,48,97
+Difficulties in recognizing and resolving people's disputes,loan modification,48,98
+Difficulties in recognizing and resolving people's disputes,access account,48,99
+Difficulties in recognizing and resolving people's disputes,financial institution,48,100
+"Providing inaccurate, unreliable, or insufficient information",consumer report,1007,1
+"Providing inaccurate, unreliable, or insufficient information",credit report,717,2
+"Providing inaccurate, unreliable, or insufficient information",report agency,551,3
+"Providing inaccurate, unreliable, or insufficient information",debt collector,398,4
+"Providing inaccurate, unreliable, or insufficient information",credit card,320,5
+"Providing inaccurate, unreliable, or insufficient information",identity theft,257,6
+"Providing inaccurate, unreliable, or insufficient information",account number,246,7
+"Providing inaccurate, unreliable, or insufficient information",information consumer,231,8
+"Providing inaccurate, unreliable, or insufficient information",personal information,184,9
+"Providing inaccurate, unreliable, or insufficient information",credit score,179,10
+"Providing inaccurate, unreliable, or insufficient information",code code,163,11
+"Providing inaccurate, unreliable, or insufficient information",customer service,161,12
+"Providing inaccurate, unreliable, or insufficient information",agency shall,154,13
+"Providing inaccurate, unreliable, or insufficient information",social security,154,14
+"Providing inaccurate, unreliable, or insufficient information",credit bureau,154,15
+"Providing inaccurate, unreliable, or insufficient information",section title,153,16
+"Providing inaccurate, unreliable, or insufficient information",fair credit,150,17
+"Providing inaccurate, unreliable, or insufficient information",credit file,150,18
+"Providing inaccurate, unreliable, or insufficient information",consumer credit,149,19
+"Providing inaccurate, unreliable, or insufficient information",third party,146,20
+"Providing inaccurate, unreliable, or insufficient information",financial institution,137,21
+"Providing inaccurate, unreliable, or insufficient information",report act,136,22
+"Providing inaccurate, unreliable, or insufficient information",business day,134,23
+"Providing inaccurate, unreliable, or insufficient information",security number,124,24
+"Providing inaccurate, unreliable, or insufficient information",debt collection,121,25
+"Providing inaccurate, unreliable, or insufficient information",name address,114,26
+"Providing inaccurate, unreliable, or insufficient information",consumer file,113,27
+"Providing inaccurate, unreliable, or insufficient information",call back,109,28
+"Providing inaccurate, unreliable, or insufficient information",cash app,109,29
+"Providing inaccurate, unreliable, or insufficient information",make pay,108,30
+"Providing inaccurate, unreliable, or insufficient information",permissible purpose,108,31
+"Providing inaccurate, unreliable, or insufficient information",federal law,107,32
+"Providing inaccurate, unreliable, or insufficient information",file consumer,106,33
+"Providing inaccurate, unreliable, or insufficient information",consumer right,101,34
+"Providing inaccurate, unreliable, or insufficient information",late pay,100,35
+"Providing inaccurate, unreliable, or insufficient information",fraudulent account,98,36
+"Providing inaccurate, unreliable, or insufficient information",dispute accuracy,97,37
+"Providing inaccurate, unreliable, or insufficient information",phone number,96,38
+"Providing inaccurate, unreliable, or insufficient information",original creditor,94,39
+"Providing inaccurate, unreliable, or insufficient information",inaccurate information,91,40
+"Providing inaccurate, unreliable, or insufficient information",let know,91,41
+"Providing inaccurate, unreliable, or insufficient information",report account,90,42
+"Providing inaccurate, unreliable, or insufficient information",alleged debt,90,43
+"Providing inaccurate, unreliable, or insufficient information",usc code,89,44
+"Providing inaccurate, unreliable, or insufficient information",mortgage loan,87,45
+"Providing inaccurate, unreliable, or insufficient information",collection practice,86,46
+"Providing inaccurate, unreliable, or insufficient information",account report,85,47
+"Providing inaccurate, unreliable, or insufficient information",within day,84,48
+"Providing inaccurate, unreliable, or insufficient information",close account,84,49
+"Providing inaccurate, unreliable, or insufficient information",item information,83,50
+"Providing inaccurate, unreliable, or insufficient information",transunions credit,82,51
+"Providing inaccurate, unreliable, or insufficient information",phone call,81,52
+"Providing inaccurate, unreliable, or insufficient information",provide consumer,80,53
+"Providing inaccurate, unreliable, or insufficient information",report consumer,78,54
+"Providing inaccurate, unreliable, or insufficient information",united state,78,55
+"Providing inaccurate, unreliable, or insufficient information",collect debt,77,56
+"Providing inaccurate, unreliable, or insufficient information",case dispute,77,57
+"Providing inaccurate, unreliable, or insufficient information",violation fcra,76,58
+"Providing inaccurate, unreliable, or insufficient information",furnishers information,76,59
+"Providing inaccurate, unreliable, or insufficient information",collection debt,76,60
+"Providing inaccurate, unreliable, or insufficient information",procedure case,76,61
+"Providing inaccurate, unreliable, or insufficient information",interest rate,74,62
+"Providing inaccurate, unreliable, or insufficient information",date inquiry,74,63
+"Providing inaccurate, unreliable, or insufficient information",dispute consumer,73,64
+"Providing inaccurate, unreliable, or insufficient information",consumer consumer,72,65
+"Providing inaccurate, unreliable, or insufficient information",well fargo,72,66
+"Providing inaccurate, unreliable, or insufficient information",act section,72,67
+"Providing inaccurate, unreliable, or insufficient information",credit insurance,72,68
+"Providing inaccurate, unreliable, or insufficient information",delete item,70,69
+"Providing inaccurate, unreliable, or insufficient information",even though,69,70
+"Providing inaccurate, unreliable, or insufficient information",consumer information,68,71
+"Providing inaccurate, unreliable, or insufficient information",report credit,68,72
+"Providing inaccurate, unreliable, or insufficient information",collector may,68,73
+"Providing inaccurate, unreliable, or insufficient information",loan modification,68,74
+"Providing inaccurate, unreliable, or insufficient information",statute limit,67,75
+"Providing inaccurate, unreliable, or insufficient information",xxxxxxxx xxxxxxxx,67,76
+"Providing inaccurate, unreliable, or insufficient information",purpose consumer,67,77
+"Providing inaccurate, unreliable, or insufficient information",delete account,66,78
+"Providing inaccurate, unreliable, or insufficient information",report accurate,66,79
+"Providing inaccurate, unreliable, or insufficient information",inquiry inquiry,66,80
+"Providing inaccurate, unreliable, or insufficient information",right privacy,65,81
+"Providing inaccurate, unreliable, or insufficient information",information credit,65,82
+"Providing inaccurate, unreliable, or insufficient information",debt owe,65,83
+"Providing inaccurate, unreliable, or insufficient information",code procedure,65,84
+"Providing inaccurate, unreliable, or insufficient information",except provide,65,85
+"Providing inaccurate, unreliable, or insufficient information",bank america,65,86
+"Providing inaccurate, unreliable, or insufficient information",american express,64,87
+"Providing inaccurate, unreliable, or insufficient information",check account,64,88
+"Providing inaccurate, unreliable, or insufficient information",consumer financial,63,89
+"Providing inaccurate, unreliable, or insufficient information",bank account,63,90
+"Providing inaccurate, unreliable, or insufficient information",attorney general,63,91
+"Providing inaccurate, unreliable, or insufficient information",gramm leach,63,92
+"Providing inaccurate, unreliable, or insufficient information",leach bliley,63,93
+"Providing inaccurate, unreliable, or insufficient information",bliley act,62,94
+"Providing inaccurate, unreliable, or insufficient information",connection credit,62,95
+"Providing inaccurate, unreliable, or insufficient information",shall provide,62,96
+"Providing inaccurate, unreliable, or insufficient information",account close,61,97
+"Providing inaccurate, unreliable, or insufficient information",agency code,61,98
+"Providing inaccurate, unreliable, or insufficient information",use credit,61,99
+"Providing inaccurate, unreliable, or insufficient information",would like,60,100
+Security risks posed by impersonation and phishing scams,kraken com,31,1
+Security risks posed by impersonation and phishing scams,bank account,19,2
+Security risks posed by impersonation and phishing scams,personal information,17,3
+Security risks posed by impersonation and phishing scams,kraken account,16,4
+Security risks posed by impersonation and phishing scams,receive email,15,5
+Security risks posed by impersonation and phishing scams,phone number,15,6
+Security risks posed by impersonation and phishing scams,social security,14,7
+Security risks posed by impersonation and phishing scams,email address,14,8
+Security risks posed by impersonation and phishing scams,call back,13,9
+Security risks posed by impersonation and phishing scams,credit report,13,10
+Security risks posed by impersonation and phishing scams,western union,13,11
+Security risks posed by impersonation and phishing scams,www kraken,13,12
+Security risks posed by impersonation and phishing scams,withdrawal address,13,13
+Security risks posed by impersonation and phishing scams,well fargo,12,14
+Security risks posed by impersonation and phishing scams,would like,11,15
+Security risks posed by impersonation and phishing scams,reply email,11,16
+Security risks posed by impersonation and phishing scams,credit card,10,17
+Security risks posed by impersonation and phishing scams,kraken support,10,18
+Security risks posed by impersonation and phishing scams,wire transfer,10,19
+Security risks posed by impersonation and phishing scams,security number,9,20
+Security risks posed by impersonation and phishing scams,identity theft,9,21
+Security risks posed by impersonation and phishing scams,fraud department,9,22
+Security risks posed by impersonation and phishing scams,phishing scam,9,23
+Security risks posed by impersonation and phishing scams,police report,8,24
+Security risks posed by impersonation and phishing scams,information ask,8,25
+Security risks posed by impersonation and phishing scams,close account,8,26
+Security risks posed by impersonation and phishing scams,financial information,8,27
+Security risks posed by impersonation and phishing scams,access account,8,28
+Security risks posed by impersonation and phishing scams,debit card,8,29
+Security risks posed by impersonation and phishing scams,https www,8,30
+Security risks posed by impersonation and phishing scams,support kraken,8,31
+Security risks posed by impersonation and phishing scams,etoro com,8,32
+Security risks posed by impersonation and phishing scams,receive call,7,33
+Security risks posed by impersonation and phishing scams,customer service,7,34
+Security risks posed by impersonation and phishing scams,unauthorized transaction,7,35
+Security risks posed by impersonation and phishing scams,say would,7,36
+Security risks posed by impersonation and phishing scams,next day,7,37
+Security risks posed by impersonation and phishing scams,tell would,7,38
+Security risks posed by impersonation and phishing scams,money transfer,7,39
+Security risks posed by impersonation and phishing scams,business day,7,40
+Security risks posed by impersonation and phishing scams,account use,7,41
+Security risks posed by impersonation and phishing scams,credit file,7,42
+Security risks posed by impersonation and phishing scams,new card,7,43
+Security risks posed by impersonation and phishing scams,best buy,7,44
+Security risks posed by impersonation and phishing scams,give information,7,45
+Security risks posed by impersonation and phishing scams,email account,7,46
+Security risks posed by impersonation and phishing scams,law enforcement,7,47
+Security risks posed by impersonation and phishing scams,security freeze,7,48
+Security risks posed by impersonation and phishing scams,capital one,7,49
+Security risks posed by impersonation and phishing scams,send money,6,50
+Security risks posed by impersonation and phishing scams,number call,6,51
+Security risks posed by impersonation and phishing scams,several time,6,52
+Security risks posed by impersonation and phishing scams,phone call,6,53
+Security risks posed by impersonation and phishing scams,check account,6,54
+Security risks posed by impersonation and phishing scams,account information,6,55
+Security risks posed by impersonation and phishing scams,account open,6,56
+Security risks posed by impersonation and phishing scams,credit freeze,6,57
+Security risks posed by impersonation and phishing scams,coinbase account,6,58
+Security risks posed by impersonation and phishing scams,pst initiate,6,59
+Security risks posed by impersonation and phishing scams,initiate withdrawal,6,60
+Security risks posed by impersonation and phishing scams,arrive account,6,61
+Security risks posed by impersonation and phishing scams,account withdrawal,6,62
+Security risks posed by impersonation and phishing scams,withdrawal reference,6,63
+Security risks posed by impersonation and phishing scams,following step,6,64
+Security risks posed by impersonation and phishing scams,let know,6,65
+Security risks posed by impersonation and phishing scams,http www,6,66
+Security risks posed by impersonation and phishing scams,call bank,5,67
+Security risks posed by impersonation and phishing scams,file police,5,68
+Security risks posed by impersonation and phishing scams,open account,5,69
+Security risks posed by impersonation and phishing scams,make sure,5,70
+Security risks posed by impersonation and phishing scams,never hear,5,71
+Security risks posed by impersonation and phishing scams,take several,5,72
+Security risks posed by impersonation and phishing scams,remove information,5,73
+Security risks posed by impersonation and phishing scams,money account,5,74
+Security risks posed by impersonation and phishing scams,victim identity,5,75
+Security risks posed by impersonation and phishing scams,account would,5,76
+Security risks posed by impersonation and phishing scams,factor authentication,5,77
+Security risks posed by impersonation and phishing scams,paypal account,5,78
+Security risks posed by impersonation and phishing scams,withdrawal usd,5,79
+Security risks posed by impersonation and phishing scams,usd wallet,5,80
+Security risks posed by impersonation and phishing scams,wallet arrive,5,81
+Security risks posed by impersonation and phishing scams,reference pst,5,82
+Security risks posed by impersonation and phishing scams,account lock,5,83
+Security risks posed by impersonation and phishing scams,account add,5,84
+Security risks posed by impersonation and phishing scams,lock account,5,85
+Security risks posed by impersonation and phishing scams,someone else,5,86
+Security risks posed by impersonation and phishing scams,account kraken,5,87
+Security risks posed by impersonation and phishing scams,support pdt,5,88
+Security risks posed by impersonation and phishing scams,secure kraken,5,89
+Security risks posed by impersonation and phishing scams,account password,5,90
+Security risks posed by impersonation and phishing scams,regard client,5,91
+Security risks posed by impersonation and phishing scams,client engagement,5,92
+Security risks posed by impersonation and phishing scams,com article,5,93
+Security risks posed by impersonation and phishing scams,beware phishing,5,94
+Security risks posed by impersonation and phishing scams,https support,5,95
+Security risks posed by impersonation and phishing scams,trading withdrawal,5,96
+Security risks posed by impersonation and phishing scams,please take,5,97
+Security risks posed by impersonation and phishing scams,highly recommend,5,98
+Security risks posed by impersonation and phishing scams,call number,4,99
+Security risks posed by impersonation and phishing scams,receive letter,4,100
+Limited ability to solve complex problems,credit report,496,1
+Limited ability to solve complex problems,consumer report,368,2
+Limited ability to solve complex problems,customer service,245,3
+Limited ability to solve complex problems,report agency,224,4
+Limited ability to solve complex problems,unkown unkown,211,5
+Limited ability to solve complex problems,debt collector,198,6
+Limited ability to solve complex problems,credit card,177,7
+Limited ability to solve complex problems,make pay,175,8
+Limited ability to solve complex problems,call back,159,9
+Limited ability to solve complex problems,unknown unknown,146,10
+Limited ability to solve complex problems,account number,145,11
+Limited ability to solve complex problems,discover bank,123,12
+Limited ability to solve complex problems,freedom mortgage,121,13
+Limited ability to solve complex problems,phone number,120,14
+Limited ability to solve complex problems,collection chargeoff,120,15
+Limited ability to solve complex problems,day late,105,16
+Limited ability to solve complex problems,phone call,104,17
+Limited ability to solve complex problems,close account,99,18
+Limited ability to solve complex problems,credit bureau,98,19
+Limited ability to solve complex problems,late fee,98,20
+Limited ability to solve complex problems,chargeoff collection,96,21
+Limited ability to solve complex problems,fair credit,93,22
+Limited ability to solve complex problems,identity theft,92,23
+Limited ability to solve complex problems,debt collection,90,24
+Limited ability to solve complex problems,personal information,89,25
+Limited ability to solve complex problems,report act,88,26
+Limited ability to solve complex problems,account close,85,27
+Limited ability to solve complex problems,credit score,85,28
+Limited ability to solve complex problems,even though,83,29
+Limited ability to solve complex problems,receive letter,83,30
+Limited ability to solve complex problems,pay make,79,31
+Limited ability to solve complex problems,business day,79,32
+Limited ability to solve complex problems,social security,79,33
+Limited ability to solve complex problems,name address,78,34
+Limited ability to solve complex problems,loan modification,77,35
+Limited ability to solve complex problems,third party,75,36
+Limited ability to solve complex problems,consumer credit,74,37
+Limited ability to solve complex problems,debit card,74,38
+Limited ability to solve complex problems,let know,73,39
+Limited ability to solve complex problems,late day,73,40
+Limited ability to solve complex problems,pay history,72,41
+Limited ability to solve complex problems,bank account,70,42
+Limited ability to solve complex problems,law firm,70,43
+Limited ability to solve complex problems,well fargo,68,44
+Limited ability to solve complex problems,would like,67,45
+Limited ability to solve complex problems,check account,67,46
+Limited ability to solve complex problems,doe doe,67,47
+Limited ability to solve complex problems,late pay,66,48
+Limited ability to solve complex problems,credit file,65,49
+Limited ability to solve complex problems,section title,65,50
+Limited ability to solve complex problems,information consumer,64,51
+Limited ability to solve complex problems,pay due,63,52
+Limited ability to solve complex problems,escrow account,63,53
+Limited ability to solve complex problems,pay pay,61,54
+Limited ability to solve complex problems,attorney general,60,55
+Limited ability to solve complex problems,monthly pay,59,56
+Limited ability to solve complex problems,within day,58,57
+Limited ability to solve complex problems,best buy,58,58
+Limited ability to solve complex problems,letter date,57,59
+Limited ability to solve complex problems,never receive,57,60
+Limited ability to solve complex problems,property tax,57,61
+Limited ability to solve complex problems,answer question,57,62
+Limited ability to solve complex problems,student loan,57,63
+Limited ability to solve complex problems,transunion credit,55,64
+Limited ability to solve complex problems,send letter,55,65
+Limited ability to solve complex problems,original creditor,55,66
+Limited ability to solve complex problems,file complaint,54,67
+Limited ability to solve complex problems,say would,54,68
+Limited ability to solve complex problems,inquire record,54,69
+Limited ability to solve complex problems,open account,53,70
+Limited ability to solve complex problems,due date,53,71
+Limited ability to solve complex problems,multiple time,53,72
+Limited ability to solve complex problems,united state,52,73
+Limited ability to solve complex problems,report account,52,74
+Limited ability to solve complex problems,record inquire,52,75
+Limited ability to solve complex problems,collection practice,52,76
+Limited ability to solve complex problems,pay amount,52,77
+Limited ability to solve complex problems,receive email,51,78
+Limited ability to solve complex problems,american express,51,79
+Limited ability to solve complex problems,make sure,51,80
+Limited ability to solve complex problems,consumer financial,51,81
+Limited ability to solve complex problems,xxxxxxxxxxxx xxxxxxxxxxxx,51,82
+Limited ability to solve complex problems,cash app,50,83
+Limited ability to solve complex problems,mortgage loan,50,84
+Limited ability to solve complex problems,federal law,50,85
+Limited ability to solve complex problems,financial protection,50,86
+Limited ability to solve complex problems,tell would,49,87
+Limited ability to solve complex problems,report credit,48,88
+Limited ability to solve complex problems,right privacy,47,89
+Limited ability to solve complex problems,number account,47,90
+Limited ability to solve complex problems,mortgage company,46,91
+Limited ability to solve complex problems,letter state,46,92
+Limited ability to solve complex problems,amount due,46,93
+Limited ability to solve complex problems,attempt collect,46,94
+Limited ability to solve complex problems,try get,45,95
+Limited ability to solve complex problems,police report,45,96
+Limited ability to solve complex problems,interest rate,45,97
+Limited ability to solve complex problems,nmls nmls,45,98
+Limited ability to solve complex problems,information provide,44,99
+Limited ability to solve complex problems,next day,44,100
+Failure to provide meaningful customer assistance,consumer report,104,1
+Failure to provide meaningful customer assistance,credit report,103,2
+Failure to provide meaningful customer assistance,credit card,92,3
+Failure to provide meaningful customer assistance,customer service,58,4
+Failure to provide meaningful customer assistance,call back,43,5
+Failure to provide meaningful customer assistance,report agency,43,6
+Failure to provide meaningful customer assistance,identity theft,37,7
+Failure to provide meaningful customer assistance,debt collector,36,8
+Failure to provide meaningful customer assistance,card pay,35,9
+Failure to provide meaningful customer assistance,phone call,34,10
+Failure to provide meaningful customer assistance,usaa credit,34,11
+Failure to provide meaningful customer assistance,consumer credit,31,12
+Failure to provide meaningful customer assistance,first citizen,31,13
+Failure to provide meaningful customer assistance,information consumer,30,14
+Failure to provide meaningful customer assistance,fraudulent account,27,15
+Failure to provide meaningful customer assistance,settlement class,27,16
+Failure to provide meaningful customer assistance,even though,24,17
+Failure to provide meaningful customer assistance,violation section,24,18
+Failure to provide meaningful customer assistance,let know,23,19
+Failure to provide meaningful customer assistance,fair credit,23,20
+Failure to provide meaningful customer assistance,third party,23,21
+Failure to provide meaningful customer assistance,credit union,23,22
+Failure to provide meaningful customer assistance,navy federal,23,23
+Failure to provide meaningful customer assistance,note account,22,24
+Failure to provide meaningful customer assistance,federal credit,22,25
+Failure to provide meaningful customer assistance,phone number,21,26
+Failure to provide meaningful customer assistance,say would,21,27
+Failure to provide meaningful customer assistance,social security,21,28
+Failure to provide meaningful customer assistance,card account,21,29
+Failure to provide meaningful customer assistance,credit bureau,21,30
+Failure to provide meaningful customer assistance,make sure,21,31
+Failure to provide meaningful customer assistance,would like,20,32
+Failure to provide meaningful customer assistance,personal information,20,33
+Failure to provide meaningful customer assistance,violation usc,20,34
+Failure to provide meaningful customer assistance,file complaint,19,35
+Failure to provide meaningful customer assistance,report act,19,36
+Failure to provide meaningful customer assistance,united state,19,37
+Failure to provide meaningful customer assistance,join conversation,19,38
+Failure to provide meaningful customer assistance,class member,19,39
+Failure to provide meaningful customer assistance,close account,18,40
+Failure to provide meaningful customer assistance,section section,18,41
+Failure to provide meaningful customer assistance,pay violation,18,42
+Failure to provide meaningful customer assistance,tell would,17,43
+Failure to provide meaningful customer assistance,receive email,17,44
+Failure to provide meaningful customer assistance,alleged debt,17,45
+Failure to provide meaningful customer assistance,debt collection,17,46
+Failure to provide meaningful customer assistance,receive response,17,47
+Failure to provide meaningful customer assistance,account credit,17,48
+Failure to provide meaningful customer assistance,fact affiant,17,49
+Failure to provide meaningful customer assistance,affiant aware,17,50
+Failure to provide meaningful customer assistance,aware proof,17,51
+Failure to provide meaningful customer assistance,proof attachment,17,52
+Failure to provide meaningful customer assistance,attachment label,17,53
+Failure to provide meaningful customer assistance,label exhibit,17,54
+Failure to provide meaningful customer assistance,exhibit usaa,17,55
+Failure to provide meaningful customer assistance,usc congress,17,56
+Failure to provide meaningful customer assistance,congress state,17,57
+Failure to provide meaningful customer assistance,student loan,17,58
+Failure to provide meaningful customer assistance,settling defendant,17,59
+Failure to provide meaningful customer assistance,date amount,16,60
+Failure to provide meaningful customer assistance,security number,16,61
+Failure to provide meaningful customer assistance,try get,16,62
+Failure to provide meaningful customer assistance,receive letter,16,63
+Failure to provide meaningful customer assistance,credit limit,16,64
+Failure to provide meaningful customer assistance,cash app,16,65
+Failure to provide meaningful customer assistance,tila section,16,66
+Failure to provide meaningful customer assistance,section regulation,16,67
+Failure to provide meaningful customer assistance,regulation section,16,68
+Failure to provide meaningful customer assistance,remove account,15,69
+Failure to provide meaningful customer assistance,use credit,15,70
+Failure to provide meaningful customer assistance,interest rate,15,71
+Failure to provide meaningful customer assistance,late pay,15,72
+Failure to provide meaningful customer assistance,temporary credit,15,73
+Failure to provide meaningful customer assistance,exhibit exhibit,15,74
+Failure to provide meaningful customer assistance,finance charge,15,75
+Failure to provide meaningful customer assistance,section tila,15,76
+Failure to provide meaningful customer assistance,several time,14,77
+Failure to provide meaningful customer assistance,get resolve,14,78
+Failure to provide meaningful customer assistance,multiple time,14,79
+Failure to provide meaningful customer assistance,make pay,14,80
+Failure to provide meaningful customer assistance,code code,14,81
+Failure to provide meaningful customer assistance,federal law,14,82
+Failure to provide meaningful customer assistance,collector may,14,83
+Failure to provide meaningful customer assistance,pay history,14,84
+Failure to provide meaningful customer assistance,virtual assistant,14,85
+Failure to provide meaningful customer assistance,trial pay,14,86
+Failure to provide meaningful customer assistance,never get,14,87
+Failure to provide meaningful customer assistance,credit score,14,88
+Failure to provide meaningful customer assistance,please let,13,89
+Failure to provide meaningful customer assistance,get back,13,90
+Failure to provide meaningful customer assistance,within day,13,91
+Failure to provide meaningful customer assistance,attempt collect,13,92
+Failure to provide meaningful customer assistance,never receive,13,93
+Failure to provide meaningful customer assistance,referral bonus,13,94
+Failure to provide meaningful customer assistance,help today,13,95
+Failure to provide meaningful customer assistance,today virtual,13,96
+Failure to provide meaningful customer assistance,allow moment,13,97
+Failure to provide meaningful customer assistance,loan modification,13,98
+Failure to provide meaningful customer assistance,shellpoints lawyer,13,99
+Failure to provide meaningful customer assistance,pay due,13,100
+System reliability and downtime,credit report,10,1
+System reliability and downtime,customer service,8,2
+System reliability and downtime,selene finance,7,3
+System reliability and downtime,system error,6,4
+System reliability and downtime,access account,5,5
+System reliability and downtime,every day,4,6
+System reliability and downtime,phone number,4,7
+System reliability and downtime,paypal account,4,8
+System reliability and downtime,get credit,4,9
+System reliability and downtime,make pay,4,10
+System reliability and downtime,telephone number,4,11
+System reliability and downtime,cell phone,4,12
+System reliability and downtime,able access,3,13
+System reliability and downtime,social medium,3,14
+System reliability and downtime,credit card,3,15
+System reliability and downtime,bill pay,3,16
+System reliability and downtime,could get,3,17
+System reliability and downtime,attempt get,3,18
+System reliability and downtime,get answer,3,19
+System reliability and downtime,every month,3,20
+System reliability and downtime,bank account,3,21
+System reliability and downtime,way get,3,22
+System reliability and downtime,get help,3,23
+System reliability and downtime,try access,3,24
+System reliability and downtime,try contact,3,25
+System reliability and downtime,wait time,3,26
+System reliability and downtime,call back,3,27
+System reliability and downtime,technical difficulty,3,28
+System reliability and downtime,call center,3,29
+System reliability and downtime,email address,3,30
+System reliability and downtime,due system,2,31
+System reliability and downtime,unable unfreeze,2,32
+System reliability and downtime,service unable,2,33
+System reliability and downtime,last night,2,34
+System reliability and downtime,since transfer,2,35
+System reliability and downtime,account website,2,36
+System reliability and downtime,time day,2,37
+System reliability and downtime,day since,2,38
+System reliability and downtime,call every,2,39
+System reliability and downtime,also try,2,40
+System reliability and downtime,system say,2,41
+System reliability and downtime,try reach,2,42
+System reliability and downtime,access money,2,43
+System reliability and downtime,paypal checkout,2,44
+System reliability and downtime,pay customer,2,45
+System reliability and downtime,daily withdrawal,2,46
+System reliability and downtime,system automatically,2,47
+System reliability and downtime,automatically block,2,48
+System reliability and downtime,comenity bank,2,49
+System reliability and downtime,account online,2,50
+System reliability and downtime,still access,2,51
+System reliability and downtime,card comenity,2,52
+System reliability and downtime,scheduled maintenance,2,53
+System reliability and downtime,one time,2,54
+System reliability and downtime,time bill,2,55
+System reliability and downtime,call customer,2,56
+System reliability and downtime,message system,2,57
+System reliability and downtime,message state,2,58
+System reliability and downtime,answer company,2,59
+System reliability and downtime,numerous user,2,60
+System reliability and downtime,late pay,2,61
+System reliability and downtime,get resolve,2,62
+System reliability and downtime,call phone,2,63
+System reliability and downtime,check balance,2,64
+System reliability and downtime,transfer fund,2,65
+System reliability and downtime,automated system,2,66
+System reliability and downtime,issue security,2,67
+System reliability and downtime,security freeze,2,68
+System reliability and downtime,unable access,2,69
+System reliability and downtime,call get,2,70
+System reliability and downtime,reset password,2,71
+System reliability and downtime,message unable,2,72
+System reliability and downtime,online website,2,73
+System reliability and downtime,local bank,2,74
+System reliability and downtime,bank system,2,75
+System reliability and downtime,phone system,2,76
+System reliability and downtime,many people,2,77
+System reliability and downtime,debit card,2,78
+System reliability and downtime,card work,2,79
+System reliability and downtime,report get,2,80
+System reliability and downtime,get message,2,81
+System reliability and downtime,report online,2,82
+System reliability and downtime,call everyday,2,83
+System reliability and downtime,leave message,2,84
+System reliability and downtime,morning try,2,85
+System reliability and downtime,access online,2,86
+System reliability and downtime,online banking,2,87
+System reliability and downtime,online system,2,88
+System reliability and downtime,well fargo,2,89
+System reliability and downtime,time speak,2,90
+System reliability and downtime,answer question,2,91
+System reliability and downtime,get hold,2,92
+System reliability and downtime,online service,2,93
+System reliability and downtime,refuse answer,2,94
+System reliability and downtime,response say,2,95
+System reliability and downtime,account information,2,96
+System reliability and downtime,message say,2,97
+System reliability and downtime,say call,2,98
+System reliability and downtime,customer review,2,99
+System reliability and downtime,repeatedly try,2,100
+Hindering access to timely human intervention,well fargo,46,1
+Hindering access to timely human intervention,wire transfer,23,2
+Hindering access to timely human intervention,fraud unit,21,3
+Hindering access to timely human intervention,customer service,17,4
+Hindering access to timely human intervention,freedom mortgage,15,5
+Hindering access to timely human intervention,fargo fraud,13,6
+Hindering access to timely human intervention,telephone call,12,7
+Hindering access to timely human intervention,wire fraud,11,8
+Hindering access to timely human intervention,fraud scheme,10,9
+Hindering access to timely human intervention,credit report,9,10
+Hindering access to timely human intervention,experian employee,8,11
+Hindering access to timely human intervention,telephone number,8,12
+Hindering access to timely human intervention,telephone wire,8,13
+Hindering access to timely human intervention,email address,7,14
+Hindering access to timely human intervention,try call,7,15
+Hindering access to timely human intervention,credit card,7,16
+Hindering access to timely human intervention,phone call,7,17
+Hindering access to timely human intervention,several time,7,18
+Hindering access to timely human intervention,answer phone,6,19
+Hindering access to timely human intervention,try contact,6,20
+Hindering access to timely human intervention,automated system,6,21
+Hindering access to timely human intervention,telephone fbi,6,22
+Hindering access to timely human intervention,min min,5,23
+Hindering access to timely human intervention,account take,5,24
+Hindering access to timely human intervention,security question,5,25
+Hindering access to timely human intervention,credit score,5,26
+Hindering access to timely human intervention,credit bureau,5,27
+Hindering access to timely human intervention,online service,5,28
+Hindering access to timely human intervention,live person,5,29
+Hindering access to timely human intervention,state would,5,30
+Hindering access to timely human intervention,recall send,5,31
+Hindering access to timely human intervention,due diligence,5,32
+Hindering access to timely human intervention,hacker change,4,33
+Hindering access to timely human intervention,pay history,4,34
+Hindering access to timely human intervention,give information,4,35
+Hindering access to timely human intervention,access online,4,36
+Hindering access to timely human intervention,late pay,4,37
+Hindering access to timely human intervention,access account,4,38
+Hindering access to timely human intervention,phone number,4,39
+Hindering access to timely human intervention,able get,4,40
+Hindering access to timely human intervention,social security,4,41
+Hindering access to timely human intervention,every time,4,42
+Hindering access to timely human intervention,error message,4,43
+Hindering access to timely human intervention,back card,4,44
+Hindering access to timely human intervention,contact form,4,45
+Hindering access to timely human intervention,consumer financial,4,46
+Hindering access to timely human intervention,financial protection,4,47
+Hindering access to timely human intervention,protection bureau,4,48
+Hindering access to timely human intervention,file complaint,4,49
+Hindering access to timely human intervention,allow access,4,50
+Hindering access to timely human intervention,send mail,4,51
+Hindering access to timely human intervention,web page,4,52
+Hindering access to timely human intervention,scan system,4,53
+Hindering access to timely human intervention,would send,4,54
+Hindering access to timely human intervention,wire recall,4,55
+Hindering access to timely human intervention,advise case,4,56
+Hindering access to timely human intervention,case escalate,4,57
+Hindering access to timely human intervention,receive telephone,4,58
+Hindering access to timely human intervention,part fraud,4,59
+Hindering access to timely human intervention,call experian,3,60
+Hindering access to timely human intervention,hear back,3,61
+Hindering access to timely human intervention,service representative,3,62
+Hindering access to timely human intervention,report available,3,63
+Hindering access to timely human intervention,available request,3,64
+Hindering access to timely human intervention,change password,3,65
+Hindering access to timely human intervention,every credit,3,66
+Hindering access to timely human intervention,take place,3,67
+Hindering access to timely human intervention,report credit,3,68
+Hindering access to timely human intervention,log account,3,69
+Hindering access to timely human intervention,support ticket,3,70
+Hindering access to timely human intervention,endless loop,3,71
+Hindering access to timely human intervention,believe come,3,72
+Hindering access to timely human intervention,dispute online,3,73
+Hindering access to timely human intervention,take day,3,74
+Hindering access to timely human intervention,call next,3,75
+Hindering access to timely human intervention,every day,3,76
+Hindering access to timely human intervention,case number,3,77
+Hindering access to timely human intervention,call also,3,78
+Hindering access to timely human intervention,also receive,3,79
+Hindering access to timely human intervention,wait time,3,80
+Hindering access to timely human intervention,never get,3,81
+Hindering access to timely human intervention,process request,3,82
+Hindering access to timely human intervention,voice system,3,83
+Hindering access to timely human intervention,speak customer,3,84
+Hindering access to timely human intervention,number provide,3,85
+Hindering access to timely human intervention,speak live,3,86
+Hindering access to timely human intervention,debit card,3,87
+Hindering access to timely human intervention,number back,3,88
+Hindering access to timely human intervention,get contact,3,89
+Hindering access to timely human intervention,even though,3,90
+Hindering access to timely human intervention,link bank,3,91
+Hindering access to timely human intervention,speak someone,3,92
+Hindering access to timely human intervention,customer support,3,93
+Hindering access to timely human intervention,pay mortgage,3,94
+Hindering access to timely human intervention,cancel membership,3,95
+Hindering access to timely human intervention,able speak,3,96
+Hindering access to timely human intervention,resolve issue,3,97
+Hindering access to timely human intervention,time transfer,3,98
+Hindering access to timely human intervention,transfer another,3,99
+Hindering access to timely human intervention,send letter,3,100
+Personally identifiable information leakage,credit report,44,1
+Personally identifiable information leakage,consumer report,39,2
+Personally identifiable information leakage,credit card,25,3
+Personally identifiable information leakage,report agency,20,4
+Personally identifiable information leakage,identity theft,19,5
+Personally identifiable information leakage,third party,17,6
+Personally identifiable information leakage,social security,13,7
+Personally identifiable information leakage,personal information,12,8
+Personally identifiable information leakage,account number,12,9
+Personally identifiable information leakage,promotional inquiry,12,10
+Personally identifiable information leakage,phone number,11,11
+Personally identifiable information leakage,information consumer,11,12
+Personally identifiable information leakage,security number,11,13
+Personally identifiable information leakage,inquiry authorize,11,14
+Personally identifiable information leakage,call back,10,15
+Personally identifiable information leakage,fraudulent account,10,16
+Personally identifiable information leakage,date inquiry,10,17
+Personally identifiable information leakage,inquiry recollection,10,18
+Personally identifiable information leakage,recollection authorize,10,19
+Personally identifiable information leakage,authorize credit,10,20
+Personally identifiable information leakage,credit pull,10,21
+Personally identifiable information leakage,pull demand,10,22
+Personally identifiable information leakage,demand remove,10,23
+Personally identifiable information leakage,criminal third,10,24
+Personally identifiable information leakage,fraud department,9,25
+Personally identifiable information leakage,well fargo,9,26
+Personally identifiable information leakage,inquirer name,9,27
+Personally identifiable information leakage,inquiry promotional,9,28
+Personally identifiable information leakage,remove inquiry,9,29
+Personally identifiable information leakage,experian account,9,30
+Personally identifiable information leakage,automated system,8,31
+Personally identifiable information leakage,credit bureau,8,32
+Personally identifiable information leakage,authorize date,8,33
+Personally identifiable information leakage,fair credit,7,34
+Personally identifiable information leakage,xxxxxxxx date,7,35
+Personally identifiable information leakage,date inquirer,7,36
+Personally identifiable information leakage,name date,7,37
+Personally identifiable information leakage,code code,7,38
+Personally identifiable information leakage,verify identity,6,39
+Personally identifiable information leakage,business day,6,40
+Personally identifiable information leakage,inaccurate information,6,41
+Personally identifiable information leakage,financial institution,6,42
+Personally identifiable information leakage,phone call,6,43
+Personally identifiable information leakage,receive email,6,44
+Personally identifiable information leakage,remove account,6,45
+Personally identifiable information leakage,please delete,6,46
+Personally identifiable information leakage,report act,6,47
+Personally identifiable information leakage,xxxxxxxx xxxxxxxx,6,48
+Personally identifiable information leakage,receive call,5,49
+Personally identifiable information leakage,right privacy,5,50
+Personally identifiable information leakage,every single,5,51
+Personally identifiable information leakage,card pay,5,52
+Personally identifiable information leakage,access account,5,53
+Personally identifiable information leakage,date birth,5,54
+Personally identifiable information leakage,make aware,5,55
+Personally identifiable information leakage,fraudulent inquiry,5,56
+Personally identifiable information leakage,attorney general,5,57
+Personally identifiable information leakage,credit insurance,5,58
+Personally identifiable information leakage,section title,5,59
+Personally identifiable information leakage,agency shall,5,60
+Personally identifiable information leakage,debt collector,5,61
+Personally identifiable information leakage,information obtain,5,62
+Personally identifiable information leakage,exercise right,5,63
+Personally identifiable information leakage,act section,5,64
+Personally identifiable information leakage,must remove,5,65
+Personally identifiable information leakage,number never,5,66
+Personally identifiable information leakage,capital one,5,67
+Personally identifiable information leakage,gain access,5,68
+Personally identifiable information leakage,account belong,5,69
+Personally identifiable information leakage,account credit,5,70
+Personally identifiable information leakage,right away,5,71
+Personally identifiable information leakage,experian service,5,72
+Personally identifiable information leakage,two business,4,73
+Personally identifiable information leakage,never give,4,74
+Personally identifiable information leakage,check account,4,75
+Personally identifiable information leakage,information credit,4,76
+Personally identifiable information leakage,account report,4,77
+Personally identifiable information leakage,continue report,4,78
+Personally identifiable information leakage,consumer credit,4,79
+Personally identifiable information leakage,unauthorized inquiry,4,80
+Personally identifiable information leakage,permissible purpose,4,81
+Personally identifiable information leakage,connection credit,4,82
+Personally identifiable information leakage,insurance transaction,4,83
+Personally identifiable information leakage,transaction initiate,4,84
+Personally identifiable information leakage,initiate consumer,4,85
+Personally identifiable information leakage,information regard,4,86
+Personally identifiable information leakage,except provide,4,87
+Personally identifiable information leakage,personal data,4,88
+Personally identifiable information leakage,date xxxxxxxx,4,89
+Personally identifiable information leakage,consumer consumer,4,90
+Personally identifiable information leakage,usc code,4,91
+Personally identifiable information leakage,code responsibility,4,92
+Personally identifiable information leakage,responsibility furnishers,4,93
+Personally identifiable information leakage,furnishers information,4,94
+Personally identifiable information leakage,agency code,4,95
+Personally identifiable information leakage,code procedure,4,96
+Personally identifiable information leakage,procedure case,4,97
+Personally identifiable information leakage,case dispute,4,98
+Personally identifiable information leakage,dispute accuracy,4,99
+Personally identifiable information leakage,account consumer,4,100
